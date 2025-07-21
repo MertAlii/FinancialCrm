@@ -11,9 +11,9 @@ using System.Windows.Forms;
 
 namespace FinancialCrm
 {
-    public partial class FrmBilling : Form
+    public partial class FrmDashBoard : Form
     {
-        public FrmBilling()
+        public FrmDashBoard()
         {
             InitializeComponent();
         }

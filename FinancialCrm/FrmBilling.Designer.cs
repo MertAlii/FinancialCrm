@@ -1,6 +1,6 @@
 ﻿namespace FinancialCrm
 {
-    partial class FrmBilling
+    partial class FrmDashBoard
     {
         /// <summary>
         /// Required designer variable.
